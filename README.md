@@ -113,21 +113,7 @@ Depending on how the Target column is defined this could change.
 | Data Visualisation | Storytelling using analytics |
 | Business Intelligence | Business insights |
 ---
-# 📈 Key Performance Indicators
-The dashboard contains the following key KPIs:
-| KPI | Description |
-| --- | --- |
-| Total Trips | Total number of trips |
-| Total Money Spent Travelling | Total cost of travelling |
-| Average Cost of Trips | Average cost of trips |
-| Average Trip Length | Average length of trips |
-| % Frequent Flyers | % of frequent flyers |
-| % Hotel Users | % of travellers using hotels |
-| Average Accomodation Cost | Average cost of accomodation |
-| Average Transport Cost | Average cost of transport |
-| Minimum Trip Cost | Cheapest trip |
-| Maximum Trip Cost | Most expensive trip |
-| Churn Rate | % of customers who are classed as churned |
+
 --
 # 👨‍💻 About the Project
 This was a personal learning project to show my skills in Data Analytics, Business Intelligence and creating Power BI dashboards.
