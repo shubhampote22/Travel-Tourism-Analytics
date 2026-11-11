@@ -42,6 +42,8 @@ It enables users to explore travel patterns, understand customer preferences, an
 - Consistent report theme and layout.
 - Easy access to different analytical sections.
 
+<img width="706" height="398" alt="01_Navigation_Overview" src="https://github.com/user-attachments/assets/6457035e-a48b-4be8-a73d-f1b50538c3a4" />
+
 ## 02. Destination Analysis
 
 **Purpose:** Understand destination popularity, travel preferences, and expenditure patterns.
@@ -60,6 +62,8 @@ It enables users to explore travel patterns, understand customer preferences, an
 - Which destinations have the highest travel expenditure?
 - What accommodation types are preferred by travelers?
 - How does transportation preference vary across destinations?
+
+<img width="705" height="395" alt="02_Destination_Analysis" src="https://github.com/user-attachments/assets/bf356225-75f8-4b06-9997-3d651fa05a69" />
 
 ## 03. Traveler Demographics
 
@@ -82,6 +86,8 @@ It enables users to explore travel patterns, understand customer preferences, an
 - What percentage of travelers are frequent flyers?
 - Which traveler segments show different travel preferences?
 
+<img width="704" height="398" alt="03_Traveler_Demographics" src="https://github.com/user-attachments/assets/f8e567c6-256b-4cfa-a2f5-2f8ce05b2f15" />
+
 ## 04. Cost & Financial Analysis
 
 **Purpose:** Evaluate travel expenditure and understand the distribution of costs across different categories.
@@ -103,6 +109,8 @@ It enables users to explore travel patterns, understand customer preferences, an
 - Which destinations have the highest travel costs?
 - How does travel expenditure vary across age groups?
 - What is the average cost per trip?
+
+<img width="707" height="398" alt="04_Cost_Analysis" src="https://github.com/user-attachments/assets/13d0ac7e-28fe-4944-af74-1bd8822bea09" />
 
 ## 05. Travel Insights & Customer Behaviour
 
@@ -132,7 +140,8 @@ It enables users to explore travel patterns, understand customer preferences, an
 - Which accommodation types are most preferred?
 - What proportion of customers are classified as churned?
 
-*Note: Customer churn interpretation depends on the actual definition and meaning of the Target column.*
+<img width="704" height="398" alt="05_Travel_Insights" src="https://github.com/user-attachments/assets/a4b7630e-0e48-4bb7-807e-a49a61a36b68" />
+
 
 ---
 
