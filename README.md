@@ -289,33 +289,6 @@ MAX('Travel Data'[Total Cost])
 
 ---
 
-# 📁 Repository Structure
-
-```text
-Travel-Tourism-Analytics/
-│
-├── Dashboard/
-│   ├── Travel_Tourism_Analytics.pbix
-│   │
-│   └── Screenshots/
-│       ├── 01_Navigation_Overview.png
-│       ├── 02_Destination_Analysis.png
-│       ├── 03_Traveler_Demographics.png
-│       ├── 04_Cost_Analysis.png
-│       └── 05_Travel_Insights.png
-│
-├── Dataset/
-│   └── Travel_Tourism_Data.xlsx
-│
-├── DAX/
-│   └── Measures.md
-│
-├── Documentation/
-│   └── Project_Documentation.md
-│
-└── README.md
-```
-
 ---
 
 # 🚀 Learning Outcomes
