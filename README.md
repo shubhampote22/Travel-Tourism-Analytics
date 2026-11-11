@@ -1,123 +1,340 @@
-# Travel-Tourism-Analytics
-Interactive Power BI dashboard analyzing travel destinations, traveler demographics, expenditure patterns and customer behavior.
+# 🌍 Travel & Tourism Analytics Dashboard
 
-## 📌 About the Project
+**An interactive Business Intelligence solution built using Microsoft Power BI to explore travel trends, destination preferences, traveler demographics, financial performance, and customer behavior.**
 
-The Travel & Tourism Analytics Dashboard is a multi-page Microsoft Power BI project that provides insight into travel data.
-The dashboard contains five pages giving an interactive insight into the following:
-Popular destinations, Demographics, Costs and Traveller behaviour.
-We can see what travel trends there are, understand what our customers prefer, what our costs are like and how we are doing on our key performance indicators.
-## 🎯 Objectives
-Identify the most travelled locations
-Analyse demographics and nationality
-Understand what accomodation and transport people prefer
-See how much money is spent travelling
-Analyse how many frequent flyers there are and whether people book hotels
-See how long people travel for and how much they spend
-Understand customer behaviour and churn indicators
-Provide key insights into the business using visuals
+![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-yellow?logo=powerbi)
+![DAX](https://img.shields.io/badge/DAX-Measures-blue)
+![Status](https://img.shields.io/badge/Project-Completed-success)
+![Domain](https://img.shields.io/badge/Domain-Travel%20%26%20Tourism-orange)
+
 ---
-# 📊 Dashboard Pages
 
-## 01. Navigation
-Purpose: Provide a simple way to navigate between the different reports.
-Provides an interactive menu allowing quick navigation between pages.
-A consistent theme throughout the report.
+## 📌 Project Overview
+
+The Travel & Tourism Analytics Dashboard is a multi-page Power BI project developed to transform travel-related data into meaningful business insights.
+
+The dashboard provides an interactive analytical experience through five dedicated report pages, covering destination analysis, traveler demographics, cost analysis, and travel behavior.
+
+It enables users to explore travel patterns, understand customer preferences, analyze expenditure distribution, and monitor important business performance indicators.
+
+## 🎯 Project Objectives
+
+- Identify the most visited travel destinations.
+- Analyze traveler demographics and nationality distribution.
+- Understand accommodation and transportation preferences.
+- Evaluate travel expenditure across different destinations.
+- Analyze frequent flyer participation and hotel booking behavior.
+- Explore trip duration and travel spending patterns.
+- Monitor customer behavior and churn-related indicators.
+- Present key business insights through interactive visualizations.
+
+---
+
+# 📊 Dashboard Pages & Features
+
+## 01. Navigation & Overview
+
+**Purpose:** Provide a user-friendly interface for navigating between different analytical report pages.
+
+**Features:**
+- Interactive navigation pane.
+- Quick switching between dashboard pages.
+- Consistent report theme and layout.
+- Easy access to different analytical sections.
 
 ## 02. Destination Analysis
-Purpose: Understand popular Destinations, travelling preferences and costs.
-Key Metrics & Visuals:
-Most travelled Destinations
-Top Destinations with most money spent travelling
-Number of Trips by Destination
-Preferred Accomodation by Destination
-Money spent on accomodation by destination
-Transport preferences
-Costs by Destination
-Key Questions:
-What are the most travelled destinations?
-Which destinations has the most money spent travelling?
-What type of accomodation do people prefer?
-What transport do people prefer?
 
-## 03. Demographics
-Purpose: Analyse the demographics of travellers.
-Key Metrics & Visuals:
-Age of Travellers
-Age Groups
-Gender
-Nationality
-Frequent Flyers %
-Frequent Flyer vs Non-Frequent Flyer
-Services Used
-Travellers Segmented
-Key Questions:
-What age group travels the most?
-What gender are people travelling?
-What nationalities are in the data?
-How many frequent flyers are there?
-Which travellers have different preferences?
+**Purpose:** Understand destination popularity, travel preferences, and expenditure patterns.
 
-## 04. Costs
-Purpose: Understand how much money is being spent travelling.
-Key Metrics & Visuals:
-Total Money Spent Travelling
-Money spent on accomodation
-Money spent on transport
-Average Cost of Trips
-Money spent travelling by destination
-Money spent by age
-Accomodation costs
-Transport costs
-Costs breakdown
-Key Questions:
-How much money is being spent travelling?
-What proportion is being spent on accomodation and transport?
-Which destinations are the most expensive?
-How much is being spent travelling by age?
-What is the average cost per trip?
+**Key Metrics & Visualizations:**
+- Most Visited Destinations.
+- Top Destinations by Travel Expenditure.
+- Destination-wise Trip Distribution.
+- Accommodation Preferences by Destination.
+- Accommodation Spending by Destination.
+- Transportation Preferences.
+- Destination-wise Cost Comparison.
+
+**Business Questions:**
+- Which destinations attract the most travelers?
+- Which destinations have the highest travel expenditure?
+- What accommodation types are preferred by travelers?
+- How does transportation preference vary across destinations?
+
+## 03. Traveler Demographics
+
+**Purpose:** Analyze traveler characteristics and understand customer segmentation.
+
+**Key Metrics & Visualizations:**
+- Traveler Age Distribution.
+- Age Group Segmentation.
+- Gender Distribution.
+- Nationality-wise Traveler Distribution.
+- Frequent Flyer Percentage.
+- Frequent Flyer vs. Non-Frequent Flyer Analysis.
+- Services Opted by Travelers.
+- Traveler Segmentation.
+
+**Business Questions:**
+- Which age group travels the most?
+- What is the gender distribution?
+- Which nationalities are represented in the dataset?
+- What percentage of travelers are frequent flyers?
+- Which traveler segments show different travel preferences?
+
+## 04. Cost & Financial Analysis
+
+**Purpose:** Evaluate travel expenditure and understand the distribution of costs across different categories.
+
+**Key Metrics & Visualizations:**
+- Total Travel Expenditure.
+- Accommodation Expenditure.
+- Transportation Expenditure.
+- Average Trip Cost.
+- Destination-wise Travel Expenditure.
+- Expenditure by Age Group.
+- Accommodation Cost Analysis.
+- Transportation Cost Analysis.
+- Cost Distribution and Comparison.
+
+**Business Questions:**
+- How much is spent on travel overall?
+- What proportion of expenditure goes toward accommodation and transportation?
+- Which destinations have the highest travel costs?
+- How does travel expenditure vary across age groups?
+- What is the average cost per trip?
 
 ## 05. Travel Insights & Customer Behaviour
-Purpose: Provide an overview of key travel KPIs and understand customer behaviour, what services they book and how long they travel for.
-Key Metrics:
-Frequent Flyers %
-Hotel Users %
-Average Accomodation Cost
-Average Transport Cost
-Minimum & Maximum Trip Costs
-Customer Churn Rate
-Visuals:
-Trip Length - Column Chart
-Shortest Trip - KPI Card
-Average Trip Length - KPI Card
-Longest Trip - KPI Card
-Accomodation bookings - Funnel Chart
-Customer Churn - Gauge Chart
-Key Questions:
-What % of travellers are frequent flyers?
-How many travellers use hotels?
-What is the average accomodation and transport cost?
-What is the shortest and longest trip length?
-What accomodation do people prefer?
-What % of customers are classed as churned?
-Depending on how the Target column is defined this could change.
----
-# 🛠 Tools Used
 
-| Tool | Purpose |
-| --- | --- |
-| Microsoft Power BI | Dashboard creation |
-| Power Query | Data Cleansing |
-| DAX | Calculated metrics |
-| Microsoft Excel | Data preparation |
-| Data Visualisation | Storytelling using analytics |
-| Business Intelligence | Business insights |
+**Purpose:** Present consolidated travel KPIs and explore customer behavior, booking preferences, and trip duration patterns.
+
+**Key Performance Indicators:**
+- Frequent Flyer Percentage.
+- Hotel Opted Percentage.
+- Average Accommodation Cost.
+- Average Transportation Cost.
+- Minimum and Maximum Trip Cost.
+- Customer Churn Rate.
+
+**Visualizations:**
+- Trip Duration Distribution – Column Chart.
+- Shortest Trip – KPI Card.
+- Average Trip Duration – KPI Card.
+- Longest Trip – KPI Card.
+- Accommodation Booking Behaviour – Funnel Chart.
+- Customer Churn Analysis – Gauge Chart.
+
+**Business Questions:**
+- What percentage of travelers are frequent flyers?
+- How many travelers opt for hotel accommodation?
+- What is the average accommodation and transportation expenditure?
+- What are the shortest and longest trip durations?
+- Which accommodation types are most preferred?
+- What proportion of customers are classified as churned?
+
+*Note: Customer churn interpretation depends on the actual definition and meaning of the Target column.*
+
 ---
 
---
-# 👨‍💻 About the Project
-This was a personal learning project to show my skills in Data Analytics, Business Intelligence and creating Power BI dashboards.
-Domain: Travel & Tourism Analytics
-Tool: Microsoft Power BI
-Technologies: Power Query, DAX, Excel.
-Type of Project: Data Analytics & Business Intelligence.
+# 🛠️ Tools & Technologies
+
+| Technology | Purpose |
+|---|---|
+| Microsoft Power BI | Dashboard development and visualization |
+| Power Query | Data cleaning and transformation |
+| DAX | Calculated measures and KPIs |
+| Microsoft Excel | Dataset preparation |
+| Data Visualization | Analytical storytelling |
+| Business Intelligence | Business insights and reporting |
+
+---
+
+# 📈 Key Performance Indicators
+
+The dashboard includes the following important KPIs:
+
+| KPI | Description |
+|---|---|
+| Total Trips | Total number of recorded trips |
+| Total Travel Expenditure | Sum of all travel costs |
+| Average Trip Cost | Average expenditure per trip |
+| Average Trip Duration | Average duration of trips |
+| Frequent Flyer % | Percentage of frequent flyers |
+| Hotel Opted % | Percentage of travelers opting for hotels |
+| Accommodation Cost Avg. | Average accommodation expenditure |
+| Transportation Cost Avg. | Average transportation expenditure |
+| Minimum Trip Cost | Lowest recorded trip expenditure |
+| Maximum Trip Cost | Highest recorded trip expenditure |
+| Churn Rate | Percentage of customers classified as churned |
+
+---
+
+# 🧮 DAX Measures
+
+Examples of DAX measures used in the project:
+
+### Total Trips
+
+```dax
+Total Trips =
+COUNTROWS('Travel Data')
+```
+
+### Total Travel Expenditure
+
+```dax
+Total Travel Expenditure =
+SUM('Travel Data'[Total Cost])
+```
+
+### Average Trip Cost
+
+```dax
+Average Trip Cost =
+AVERAGE('Travel Data'[Total Cost])
+```
+
+### Average Trip Duration
+
+```dax
+Average Trip Duration =
+AVERAGE('Travel Data'[Duration (days)])
+```
+
+### Frequent Flyers
+
+```dax
+Positive Frequent Flyers =
+CALCULATE(
+    COUNTROWS('Travel Data'),
+    'Travel Data'[FrequentFlyer] = "Yes"
+)
+```
+
+### Frequent Flyer Percentage
+
+```dax
+Frequent Flyer % =
+DIVIDE(
+    [Positive Frequent Flyers],
+    [Total Trips],
+    0
+)
+```
+
+### Hotel Opted Percentage
+
+```dax
+Hotel Opted % =
+DIVIDE(
+    CALCULATE(
+        COUNTROWS('Travel Data'),
+        'Travel Data'[BookedHotelOrNot] = "Yes"
+    ),
+    [Total Trips],
+    0
+)
+```
+
+### Accommodation Expenditure
+
+```dax
+Accommodation Expenditure =
+SUM('Travel Data'[Accommodation cost])
+```
+
+### Transportation Expenditure
+
+```dax
+Transportation Expenditure =
+SUM('Travel Data'[Transportation cost])
+```
+
+### Minimum Trip Cost
+
+```dax
+Minimum Trip Cost =
+MIN('Travel Data'[Total Cost])
+```
+
+### Maximum Trip Cost
+
+```dax
+Maximum Trip Cost =
+MAX('Travel Data'[Total Cost])
+```
+
+*Note: Adjust table and column names to match your actual Power BI model. Additional measures can be included in the DAX documentation.*
+
+---
+
+### Key Observations
+
+- Accommodation accounts for approximately 67.9% of total travel expenditure.
+- Transportation accounts for approximately 32.1% of total travel expenditure.
+- Three out of five travelers booked hotels.
+- All five sample records have a FrequentFlyer value of No.
+- The average trip duration is 7.4 days.
+
+**Important:** These observations are based only on five sample records and should not be generalized to the wider tourism industry.
+
+---
+
+# 📁 Repository Structure
+
+```text
+Travel-Tourism-Analytics/
+│
+├── Dashboard/
+│   ├── Travel_Tourism_Analytics.pbix
+│   │
+│   └── Screenshots/
+│       ├── 01_Navigation_Overview.png
+│       ├── 02_Destination_Analysis.png
+│       ├── 03_Traveler_Demographics.png
+│       ├── 04_Cost_Analysis.png
+│       └── 05_Travel_Insights.png
+│
+├── Dataset/
+│   └── Travel_Tourism_Data.xlsx
+│
+├── DAX/
+│   └── Measures.md
+│
+├── Documentation/
+│   └── Project_Documentation.md
+│
+└── README.md
+```
+
+---
+
+# 🚀 Learning Outcomes
+
+Through this project, I explored and demonstrated:
+
+- Development of interactive multi-page Power BI dashboards.
+- Data cleaning and transformation using Power Query.
+- Creation of calculated measures using DAX.
+- Development of analytical KPIs.
+- Traveler segmentation and demographic analysis.
+- Financial and expenditure analysis.
+- Interactive report navigation and data exploration.
+- Converting raw data into meaningful business insights.
+
+---
+
+# 👨‍💻 About This Project
+
+This is a personal learning and portfolio project developed to demonstrate practical skills in Data Analytics, Business Intelligence, and Power BI dashboard development.
+
+**Domain:** Travel & Tourism Analytics  
+**Tool:** Microsoft Power BI  
+**Technologies:** Power Query, DAX, Excel  
+**Project Type:** Data Analytics & Business Intelligence
+
+---
+
+⭐ If you find this project interesting, feel free to explore the dashboard and its analytical features.
+
+**Thank you for visiting!**
